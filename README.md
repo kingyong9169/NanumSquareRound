@@ -28,7 +28,7 @@ NanumSquareRound를 웹폰트로 사용하시려면 2가지 방법이 있습니�
 
 ```css
 * {
-  font-family: 'NanumSquareRound', sans-serif;
+  font-family: 'Nanum Square Round', sans-serif;
 }
 ```
 
