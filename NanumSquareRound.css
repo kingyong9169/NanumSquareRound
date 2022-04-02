@@ -1,35 +1,43 @@
 @font-face {
   font-family: 'Nanum Square Round';
   font-weight: 300;
-  src: url('./fonts/NanumSquareRoundL.ttf') format('truetype'),
-    url('./fonts/NanumSquareRoundL.otf') format('opentype'),
-    url('./fonts/NanumSquareRoundL.woff2') format('woff2'),
-    url('./fonts/NanumSquareRoundL.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundL.ttf')
+    format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundL.woff2')
+    format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundL.woff')
+    format('woff');
 }
 
 @font-face {
   font-family: 'Nanum Square Round';
   font-weight: 400;
-  src: url('./fonts/NanumSquareRoundR.ttf') format('truetype'),
-    url('./fonts/NanumSquareRoundR.otf') format('opentype'),
-    url('./fonts/NanumSquareRoundR.woff2') format('woff2'),
-    url('./fonts/NanumSquareRoundR.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundR.ttf')
+    format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundR.woff2')
+    format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundR.woff')
+    format('woff');
 }
 
 @font-face {
   font-family: 'Nanum Square Round';
   font-weight: 700;
-  src: url('./fonts/NanumSquareRoundB.ttf') format('truetype'),
-    url('./fonts/NanumSquareRoundB.otf') format('opentype'),
-    url('./fonts/NanumSquareRoundB.woff2') format('woff2'),
-    url('./fonts/NanumSquareRoundB.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundB.ttf')
+    format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundB.woff2')
+    format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundB.woff')
+    format('woff');
 }
 
 @font-face {
   font-family: 'Nanum Square Round';
   font-weight: 800;
-  src: url('./fonts/NanumSquareRoundEB.ttf') format('truetype'),
-    url('./fonts/NanumSquareRoundEB.otf') format('opentype'),
-    url('./fonts/NanumSquareRoundEB.woff2') format('woff2'),
-    url('./fonts/NanumSquareRoundEB.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundEB.ttf')
+    format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundEB.woff2')
+    format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/kingyong9169/NanumSquareRound/fonts/NanumSquareRoundEB.woff')
+    format('woff');
 }
